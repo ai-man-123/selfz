@@ -84,24 +84,24 @@ const bucinrandom = JSON.parse(fs.readFileSync('./database/bucin.json'))
 const tugasnye = JSON.parse(fs.readFileSync('./database/tugas.json'))
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////𝗦𝗘𝗧𝗧𝗜𝗡𝗚 𝗡𝗜𝗛, 𝗝𝗔𝗡𝗚𝗔𝗡 𝗕𝗨𝗧𝗔///////////////////////////////////////////////////////////////////////////////////////////////////////////
 /*SETTINGGGGGGGG*/
-banChats = false;
+banChats = true;
 offline = false;
 autorespon = false
-targetpc = "6281319944917";
-gopay = "0882-1329-2687";
+targetpc = "60102810046";
+gopay = "0102810046";
 member = "10";
 limitawal = '20'
-ovo = "0882-1329-2687";
-pulsa = "0813-1994-4917";
-dana = "0813-1994-4917"
+ovo = "0102810046";
+pulsa = "0102810046";
+dana = "0102810046"
 namabot = "-";
 linkimg = "https://telegra.ph/file/fb08daf350ee2092c200f.jpg";
 /*ITU YG DI ATAS LINK IMAGENYA DONASI DANA YA KAWAN*/
-grupct = "https://chat.whatsapp.com/HECLovHbCI6LVVH4Q8FN2C";
-owner = "6281319944917";
-nama_owner = "Arasyaaa";
-instagram = "sofunsyabi.id";
-yt = "https://youtube.com/channel/UCZzt-Qw0zTYc8UP-LL2G5fA";
+grupct = "https://chat.whatsapp.com/";
+owner = "60102810046";
+nama_owner = "꧁☠︎ꋬ꒐ꂵꋬꋊ-self☠︎꧂";
+instagram = "💀";
+yt = "https://youtube.com/channel/";
 fake = "JOJO - BOT";
 thumb = fs.readFileSync("./stik/thumb.jpeg");
 numbernye = "0";
